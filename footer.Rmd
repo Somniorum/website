@@ -3,15 +3,6 @@
 <p style="text-align: center;"> © <a href="https://www.youtube.com/channel/UCXYia3CUFRcaZxL-61XmK3w">Somniorum 2019</a></p>
 <p style="text-align: center;"><span style="color: #808080;"><em>SomniorumOfficiel@hotmail.com</em></span></p>
 
-<!-- Add icon library -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-<!-- Add font awesome icons -->
-<p style="text-align: center;">
-    <a href="https://www.facebook.com/somniorumofficiel/" class="fa fa-facebook"></a>
-    <a href="https://soundcloud.com/somniorumofficiel" class="fa fa-soundcloud"></a> 
-    <a href="https://www.youtube.com/channel/UCXYia3CUFRcaZxL-61XmK3w" ></a> <i class="fab fa-youtube-square"></i>
-    <a href="https://somniorumofficiel.bandcamp.com/" class="fa fa-bandcamp"></a>
-</p>
 
 &nbsp;

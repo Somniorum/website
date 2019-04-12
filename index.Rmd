@@ -3,6 +3,7 @@ output:
   html_document:
     includes:
       after_body: footer.html
+    
 ---
 
 ```{r setup, include=FALSE}
@@ -42,4 +43,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ## Links
-
+<i class="fab fa-youtube-square"></i>
