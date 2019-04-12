@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ***
 
 ## Videos
-<iframe width="560" height="315" src="https://youtu.be.com/embed/RJOBr5nj6Y4" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/embed/RJOBr5nj6Y4" frameborder="0" allowfullscreen></iframe>
 ## Infos
 content of sub-chapter #2
 
