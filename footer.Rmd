@@ -1,3 +1,8 @@
+---
+output: 
+  html_document
+---
+
 &nbsp;
 <hr />
 <p style="text-align: center;"> © <a href="https://www.youtube.com/channel/UCXYia3CUFRcaZxL-61XmK3w">Somniorum 2019</a></p>
