@@ -1,83 +1,24 @@
----
-title: "Untitled"
-author: "Moi"
-date: "12 avril 2019"
-output: 
-  html_document:
-    toc: TRUE
-    number_sections: FALSE
-    code_folding: "show"
----
 
-<style>
-#TOC {
-  top: 1%;
-  opacity: 0.5;
-}
-#TOC:hover {
-  opacity: 1;
-}
-</style>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
-
-<div class = "row">
-  
-<div class = "col-md-4">
-<br><br>Since R Markdown use the [bootstrap framework](https://getbootstrap.com/docs/4.0/layout/grid/) under the hood. It is possible to benefit its powerful grid system. Basically, you can consider that your row is divided in 12 subunits of same width. You can then choose to use only a few of this subunits.
-</div>
-  
-<div class = "col-md-4">
-<br><br>Here, I use 3 subunits of size 4 (4x3=12). The last column is used for a plot. You can read more about the grid system [here](bootstrap grid system). I got this result showing the following code in my R Markdown document.
-</div>
-  
-<div class = "col-md-4">
-``{r, message=FALSE, echo=FALSE}
-ggplot( mtcars, aes(x=mpg)) + geom_histogram(fill="skyblue", alpha=0.5) + theme_minimal()
-``
-</div>
-</div>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6A5EpqqDOdk" frameborder="0" allowfullscreen></iframe>
 
 <center>
 ![FigName](Couverture Somniorum 2019YTBE.jpeg)
 </center>
 
-
-# Use buttons or tabs for sub-chapters {.tabset .tabset-fade .tabset-pills}
+# {.tabset .tabset-fade .tabset-pills}
 ***
-Save space in your document using buttons or tabs for sub chapters. Add this code at the end of your title:
 
-## First
-A first section
-
-## Second
+## Videos
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=RJOBr5nj6Y4" frameborder="0" allowfullscreen></iframe>
+## Infos
 content of sub-chapter #2
 
-## Third
+## Gear
 content of sub-chapter #3
 
 .btn {
@@ -90,3 +31,4 @@ content of sub-chapter #3
     background-color: #ffffff;
     border-color: #ffffff;
 }
+
