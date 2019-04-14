@@ -1,7 +1,4 @@
----
-output: 
-  html_document
----
+
 
 &nbsp;
 <hr />
