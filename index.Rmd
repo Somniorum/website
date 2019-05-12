@@ -1,6 +1,7 @@
 ---
 output: 
   html_document
+
     
     
 ---
@@ -25,6 +26,9 @@ output:
 
 ***
 
+<p style="text-align: center;"> © <a href="https://www.youtube.com/channel/UCXYia3CUFRcaZxL-61XmK3w">Somniorum 2019</a></p>
+<p style="text-align: center;"><span style="color: #808080;"><em>SomniorumOfficiel@hotmail.com</em></span></p>
+
 ## Music
 ***
 ![](Original songs band.png)
@@ -42,6 +46,9 @@ output:
 
 ***
 
+<p style="text-align: center;"> © <a href="https://www.youtube.com/channel/UCXYia3CUFRcaZxL-61XmK3w">Somniorum 2019</a></p>
+<p style="text-align: center;"><span style="color: #808080;"><em>SomniorumOfficiel@hotmail.com</em></span></p>
+
 ## Videos
 
 
@@ -53,10 +60,27 @@ output:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GXaR-VuNI0c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x1HVWpUrRmQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ***
+
+<p style="text-align: center;"> © <a href="https://www.youtube.com/channel/UCXYia3CUFRcaZxL-61XmK3w">Somniorum 2019</a></p>
+<p style="text-align: center;"><span style="color: #808080;"><em>SomniorumOfficiel@hotmail.com</em></span></p>
 
 ## Biography
 
+***
+
+***
+
+<p style="text-align: center;"> © <a href="https://www.youtube.com/channel/UCXYia3CUFRcaZxL-61XmK3w">Somniorum 2019</a></p>
+<p style="text-align: center;"><span style="color: #808080;"><em>SomniorumOfficiel@hotmail.com</em></span></p>
 
 ## Links
+
+***
+
+***
+
+<p style="text-align: center;"> © <a href="https://www.youtube.com/channel/UCXYia3CUFRcaZxL-61XmK3w">Somniorum 2019</a></p>
+<p style="text-align: center;"><span style="color: #808080;"><em>SomniorumOfficiel@hotmail.com</em></span></p>
 
