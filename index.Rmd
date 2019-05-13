@@ -6,6 +6,10 @@ output:
     
 ---
 
+```{r setup, include=FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
+
 
 
 
@@ -29,6 +33,23 @@ output:
 <p style="text-align: center;"> © <a href="https://www.youtube.com/channel/UCXYia3CUFRcaZxL-61XmK3w">Somniorum 2019</a></p>
 <p style="text-align: center;"><span style="color: #808080;"><em>SomniorumOfficiel@hotmail.com</em></span></p>
 
+<center>
+<p>
+<a href="https://www.facebook.com/somniorumofficiel/">
+    <i class="fa fa-facebook"></i>
+</a> <a href="https://www.youtube.com/channel/UCXYia3CUFRcaZxL-61XmK3w">
+    <i class="fa fa-youtube"></i>
+</a> <a href="https://soundcloud.com/somniorumofficiel">
+    <i class="fa fa-soundcloud"></i>
+</a> <a href="https://somniorumofficiel.bandcamp.com/">
+    <i class="fa fa-bandcamp"></i>
+</a>
+
+</p>
+</center>
+
+
+
 ## Music
 ***
 ![](Original songs band.png)
@@ -49,6 +70,21 @@ output:
 <p style="text-align: center;"> © <a href="https://www.youtube.com/channel/UCXYia3CUFRcaZxL-61XmK3w">Somniorum 2019</a></p>
 <p style="text-align: center;"><span style="color: #808080;"><em>SomniorumOfficiel@hotmail.com</em></span></p>
 
+<center>
+<p>
+<a href="https://www.facebook.com/somniorumofficiel/">
+    <i class="fa fa-facebook"></i>
+</a> <a href="https://www.youtube.com/channel/UCXYia3CUFRcaZxL-61XmK3w">
+    <i class="fa fa-youtube"></i>
+</a> <a href="https://soundcloud.com/somniorumofficiel">
+    <i class="fa fa-soundcloud"></i>
+</a> <a href="https://somniorumofficiel.bandcamp.com/">
+    <i class="fa fa-bandcamp"></i>
+</a>
+
+</p>
+</center>
+
 ## Videos
 
 
@@ -66,21 +102,56 @@ output:
 <p style="text-align: center;"> © <a href="https://www.youtube.com/channel/UCXYia3CUFRcaZxL-61XmK3w">Somniorum 2019</a></p>
 <p style="text-align: center;"><span style="color: #808080;"><em>SomniorumOfficiel@hotmail.com</em></span></p>
 
+<center>
+<p>
+<a href="https://www.facebook.com/somniorumofficiel/">
+    <i class="fa fa-facebook"></i>
+</a> <a href="https://www.youtube.com/channel/UCXYia3CUFRcaZxL-61XmK3w">
+    <i class="fa fa-youtube"></i>
+</a> <a href="https://soundcloud.com/somniorumofficiel">
+    <i class="fa fa-soundcloud"></i>
+</a> <a href="https://somniorumofficiel.bandcamp.com/">
+    <i class="fa fa-bandcamp"></i>
+</a>
+
+</p>
+</center>
+
 ## Biography
 
 ***
 
+<div class = "row">
+  
+<div class = "col-md-4">
+<br><br>![](Profil.jpg)
+</div>
+
+<div class = "col-md-4">
+<br><br>Blablabla
+</div>
+
+</div>
+
 ***
 
 <p style="text-align: center;"> © <a href="https://www.youtube.com/channel/UCXYia3CUFRcaZxL-61XmK3w">Somniorum 2019</a></p>
 <p style="text-align: center;"><span style="color: #808080;"><em>SomniorumOfficiel@hotmail.com</em></span></p>
 
-## Links
+<center>
+<p>
+<a href="https://www.facebook.com/somniorumofficiel/">
+    <i class="fa fa-facebook"></i>
+</a> <a href="https://www.youtube.com/channel/UCXYia3CUFRcaZxL-61XmK3w">
+    <i class="fa fa-youtube"></i>
+</a> <a href="https://soundcloud.com/somniorumofficiel">
+    <i class="fa fa-soundcloud"></i>
+</a> <a href="https://somniorumofficiel.bandcamp.com/">
+    <i class="fa fa-bandcamp"></i>
+</a>
 
-***
+</p>
+</center>
 
-***
 
-<p style="text-align: center;"> © <a href="https://www.youtube.com/channel/UCXYia3CUFRcaZxL-61XmK3w">Somniorum 2019</a></p>
-<p style="text-align: center;"><span style="color: #808080;"><em>SomniorumOfficiel@hotmail.com</em></span></p>
 
