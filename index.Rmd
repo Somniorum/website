@@ -15,13 +15,13 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 
 
 <center>
-![FigName](Couverture Somniorum 2019.jpeg)
+![](Couverture Somniorum 2019.jpeg)
 </center>
 
 
 
 # {.tabset .tabset-fade .tabset-pills}
-***
+
 
 ## Home
 
@@ -55,7 +55,7 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 ![](Original songs band.png)
 
 ***
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/619464786&color=%233469f4&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/619464786&color=%2347a2dd&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 ***
 
@@ -63,7 +63,7 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 
 ***
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/600771933&color=%233469f4&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/600771933&color=%2347a2dd&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 ***
 
