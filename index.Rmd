@@ -1,48 +1,72 @@
 ---
-output: 
-  html_document
-
-    
-    
+output:
+  html_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 ```
 
-
+<style>
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 60px;
+    color: #000000;
+}
+.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
+    color: #ffffff;
+    background-color: #000000;
+}
+</style>
 
 
 
 <center>
-![](Couverture Somniorum 20192.jpeg)
+![](Couverture Git.png)
 </center>
 
 
 
-# {.tabset .tabset-fade .tabset-pills}
+# {.tabset .tabset-fade .tabset-pills }
 
 
 ## Home
 
 ***
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dGkIfMXccAs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscren></iframe>
+<div class = "row">
+  
+<div class = "col-md-4">
+
+
+
+
+</div>
+
+<div class = "col-md-4">
+<br><br> <iframe width="560" height="315" src="https://www.youtube.com/embed/pWt2k_VVJSs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+</div>
+
+</div>
 
 ***
 
-<p style="text-align: center;"> © <a href="https://www.youtube.com/channel/UCXYia3CUFRcaZxL-61XmK3w">Somniorum 2019</a></p>
-<p style="text-align: center;"><span style="color: #808080;"><em>SomniorumOfficiel@hotmail.com</em></span></p>
+<p style="text-align: center; "> Â© 2020 Somniorum</a></p>
+<p style="text-align: center;"><em>SomniorumOfficiel@hotmail.com</em> <i class="fa fa-envelope" style="color:#000000;"></i></p>
 
 <center>
 <p>
 <a href="https://www.facebook.com/somniorumofficiel/">
-    <i class="fa fa-facebook"></i>
+    <i class="fa fa-facebook" style="color:#000000;"></i>
 </a> <a href="https://www.youtube.com/channel/UCXYia3CUFRcaZxL-61XmK3w">
-    <i class="fa fa-youtube"></i>
+    <i class="fa fa-youtube" style="color:#000000;"></i>
 </a> <a href="https://soundcloud.com/somniorumofficiel">
-    <i class="fa fa-soundcloud"></i>
+    <i class="fa fa-soundcloud" style="color:#000000;"></i>
 </a> <a href="https://somniorumofficiel.bandcamp.com/">
-    <i class="fa fa-bandcamp"></i>
+    <i class="fa fa-bandcamp" style="color:#000000;"></i>
 </a>
 
 </p>
@@ -67,19 +91,19 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 
 ***
 
-<p style="text-align: center;"> © <a href="https://www.youtube.com/channel/UCXYia3CUFRcaZxL-61XmK3w">Somniorum 2019</a></p>
-<p style="text-align: center;"><span style="color: #808080;"><em>SomniorumOfficiel@hotmail.com</em></span></p>
+<p style="text-align: center; "> Â© 2020 Somniorum</a></p>
+<p style="text-align: center;"><em>SomniorumOfficiel@hotmail.com</em> <i class="fa fa-envelope" style="color:#000000;"></i></p>
 
 <center>
 <p>
 <a href="https://www.facebook.com/somniorumofficiel/">
-    <i class="fa fa-facebook"></i>
+    <i class="fa fa-facebook" style="color:#000000;"></i>
 </a> <a href="https://www.youtube.com/channel/UCXYia3CUFRcaZxL-61XmK3w">
-    <i class="fa fa-youtube"></i>
+    <i class="fa fa-youtube" style="color:#000000;"></i>
 </a> <a href="https://soundcloud.com/somniorumofficiel">
-    <i class="fa fa-soundcloud"></i>
+    <i class="fa fa-soundcloud" style="color:#000000;"></i>
 </a> <a href="https://somniorumofficiel.bandcamp.com/">
-    <i class="fa fa-bandcamp"></i>
+    <i class="fa fa-bandcamp" style="color:#000000;"></i>
 </a>
 
 </p>
@@ -99,19 +123,19 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 
 ***
 
-<p style="text-align: center;"> © <a href="https://www.youtube.com/channel/UCXYia3CUFRcaZxL-61XmK3w">Somniorum 2019</a></p>
-<p style="text-align: center;"><span style="color: #808080;"><em>SomniorumOfficiel@hotmail.com</em></span></p>
+<p style="text-align: center; "> Â© 2020 Somniorum</a></p>
+<p style="text-align: center;"><em>SomniorumOfficiel@hotmail.com</em> <i class="fa fa-envelope" style="color:#000000;"></i></p>
 
 <center>
 <p>
 <a href="https://www.facebook.com/somniorumofficiel/">
-    <i class="fa fa-facebook"></i>
+    <i class="fa fa-facebook" style="color:#000000;"></i>
 </a> <a href="https://www.youtube.com/channel/UCXYia3CUFRcaZxL-61XmK3w">
-    <i class="fa fa-youtube"></i>
+    <i class="fa fa-youtube" style="color:#000000;"></i>
 </a> <a href="https://soundcloud.com/somniorumofficiel">
-    <i class="fa fa-soundcloud"></i>
+    <i class="fa fa-soundcloud" style="color:#000000;"></i>
 </a> <a href="https://somniorumofficiel.bandcamp.com/">
-    <i class="fa fa-bandcamp"></i>
+    <i class="fa fa-bandcamp" style="color:#000000;"></i>
 </a>
 
 </p>
@@ -124,34 +148,62 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 <div class = "row">
   
 <div class = "col-md-4">
-<br><br>![](Profil.jpg)
+<br><br>![](Photo profil small.png)
+<a href="http://www.lagrosseradio.com" title="Radio METAL"><img src="http://www.lagrosseradio.com/_images/logos/artiste-soutenu.png" alt="Radio METAL" /></a>
 </div>
 
 <div class = "col-md-4">
-<br><br>Blablabla
+<br><br> Somniorum is Adrien Gimenez.
+
+
 </div>
 
 </div>
 
 ***
 
-<p style="text-align: center;"> © <a href="https://www.youtube.com/channel/UCXYia3CUFRcaZxL-61XmK3w">Somniorum 2019</a></p>
-<p style="text-align: center;"><span style="color: #808080;"><em>SomniorumOfficiel@hotmail.com</em></span></p>
+<p style="text-align: center; "> Â© 2020 Somniorum</a></p>
+<p style="text-align: center;"><em>SomniorumOfficiel@hotmail.com</em> <i class="fa fa-envelope" style="color:#000000;"></i></p>
 
 <center>
 <p>
 <a href="https://www.facebook.com/somniorumofficiel/">
-    <i class="fa fa-facebook"></i>
+    <i class="fa fa-facebook" style="color:#000000;"></i>
 </a> <a href="https://www.youtube.com/channel/UCXYia3CUFRcaZxL-61XmK3w">
-    <i class="fa fa-youtube"></i>
+    <i class="fa fa-youtube" style="color:#000000;"></i>
 </a> <a href="https://soundcloud.com/somniorumofficiel">
-    <i class="fa fa-soundcloud"></i>
+    <i class="fa fa-soundcloud" style="color:#000000;"></i>
 </a> <a href="https://somniorumofficiel.bandcamp.com/">
-    <i class="fa fa-bandcamp"></i>
+    <i class="fa fa-bandcamp" style="color:#000000;"></i>
 </a>
 
 </p>
 </center>
 
+## Contact
+
+***
+
+To contact Somniorum, please send a mail to the following email adress : somniorumofficiel@hotmail.com .
+
+***
+
+<p style="text-align: center; "> Â© 2020 Somniorum</a></p>
+<p style="text-align: center;"><em>SomniorumOfficiel@hotmail.com</em> <i class="fa fa-envelope" style="color:#000000;"></i></p>
+
+<center>
+<p>
+<a href="https://www.facebook.com/somniorumofficiel/">
+    <i class="fa fa-facebook" style="color:#000000;"></i>
+</a> <a href="https://www.youtube.com/channel/UCXYia3CUFRcaZxL-61XmK3w">
+    <i class="fa fa-youtube" style="color:#000000;"></i>
+</a> <a href="https://soundcloud.com/somniorumofficiel">
+    <i class="fa fa-soundcloud" style="color:#000000;"></i>
+</a> <a href="https://somniorumofficiel.bandcamp.com/">
+    <i class="fa fa-bandcamp" style="color:#000000;"></i>
+</a>
+
+</p>
+</center>
 
 
