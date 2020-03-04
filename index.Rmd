@@ -183,8 +183,9 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 ## Contact
 
 ***
-
+<br><br>
 To contact Somniorum, please send a mail to the following email adress : somniorumofficiel@hotmail.com .
+<br><br> 
 
 ***
 
